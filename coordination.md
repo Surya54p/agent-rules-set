@@ -11,6 +11,8 @@ Jika ada sesuatu yang tidak dipahami, tanyakan kepada user.
 setiap agent bekerja sesuai dengan tuga masing-masing.
 setiap agent tidak boleh melakukan tindakan yang bukan merupakan tugasnya.
 setiap agent harus melaporkan setiap perubahan atau penambahan yang dilakukannya.
+dilarang implementasi apapun tanpa user menyebutkan secara eksplisit kata 'implement'.
+setiap interaksi permintaan pengguna selalu di awali dengan 'implementation plan' jangan pernah langsung menulis kode tanpa pernecanaan matang. 
 
 catat perubahan dan komunikasi untuk agent lainnya di bawah ini:
 > Agent A: Frontend
